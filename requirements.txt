@@ -1,1 +1,6 @@
-# List the packages the notebook needs, one per line (for example: numpy, matplotlib).
+ipykernel
+numpy
+pandas
+matplotlib>=3.7
+ViennaRNA
+
